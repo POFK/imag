@@ -1,5 +1,6 @@
 *.npy
 *.pyc
-#*.png
+*.png
 *.eps
 *.meta
+*.sh
